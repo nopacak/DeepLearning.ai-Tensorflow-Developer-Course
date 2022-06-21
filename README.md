@@ -1,1 +1,1 @@
-# DeepLearning.ai-Tensorflow-Developer-Course
+Practice notebooks for DeepLearning.ai Tensorflow Developer Course on Coursera
